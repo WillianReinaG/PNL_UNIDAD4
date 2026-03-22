@@ -1,0 +1,16 @@
+# NLP con Transformers (Hugging Face) — unidad 4
+# Python 3.10+ recomendado.
+#
+# PyTorch: si necesitas GPU o una build concreta, instálalo antes desde
+# https://pytorch.org/get-started/locally/ y luego: pip install -r requirements.txt
+
+torch>=2.1.0
+transformers[torch]>=4.36.0
+datasets>=2.16.0
+evaluate>=0.4.0
+torchinfo>=1.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
