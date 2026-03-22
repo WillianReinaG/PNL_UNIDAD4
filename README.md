@@ -153,6 +153,10 @@ Para **PyTorch con GPU/CUDA**, sigue primero [Get Started (PyTorch)](https://pyt
 
 ---
 
-## Autor
+## Integrantes
 
-**Willian Reina** — [PNL_UNIDAD4 en GitHub](https://github.com/WillianReinaG/PNL_UNIDAD4).
+- Juan Manuel Hurtado  
+- Manuel Alberto González  
+- Willian Alberto Reina  
+
+Repositorio del equipo: [PNL_UNIDAD4 en GitHub](https://github.com/WillianReinaG/PNL_UNIDAD4).
